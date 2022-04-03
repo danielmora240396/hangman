@@ -49,7 +49,7 @@ function App() {
       const tempState = {...state}
       tempState.guessedLetters.push(letter)
       for(let i = 0; i < tempState.guessedWord.length; i++) {
-        if(tempState.word[i] === enteredLetter) {
+        if(tempState.word[i] === enteredLetter.toLocaleLowerCase()) {
           tempState.guessedWord[i] = enteredLetter;
           found = true;
         }
