@@ -68,6 +68,7 @@ function App() {
     setState(tempState);
     setEnteredLetter('')
     } 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [enteredLetter])
 
   const getWord = () => {
