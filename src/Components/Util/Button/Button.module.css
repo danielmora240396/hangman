@@ -1,0 +1,13 @@
+.button {
+  padding: 10px 15px;
+  min-width: 100px;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  background-color: #3498db;
+  color: white;
+  font-size: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+/*# sourceMappingURL=Button.module.css.map */

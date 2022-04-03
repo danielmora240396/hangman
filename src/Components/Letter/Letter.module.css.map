@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,MAAM,EAAE,iBAAiB;EACzB,IAAI,EAAG,QAAQ;EACf,OAAO,EAAE,MAAM;EACf,MAAM,EAAE,MAAM;EACd,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,SAAS;EACzB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "Letter.scss"
+    ],
+    "names": [],
+    "file": "Letter.module.css"
+}
